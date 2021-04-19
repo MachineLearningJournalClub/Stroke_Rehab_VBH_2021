@@ -10,7 +10,7 @@
 
 # Stroke Rehab - Spring School 2021
 
-This work has been done during the g-tec Spring School 2021.
+This work has been done during the [g-tec Spring School 2021](https://www.gtec.at/spring-school-2021/).
 
 ## Objective
 
