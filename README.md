@@ -16,7 +16,7 @@ This work has been done during the g-tec Spring School 2021.
 
 We had to analyze a motor imagery BCI data-set from a chronic stroke patient to optimize pre-processing. The dataset included three patients and the data were collected before and after intervention in order to evaluate the improvement.
 
-![Alt text](img/img.jpg?raw=true "Timing")
+![alt text](https://github.com/MachineLearningJournalClub/Stroke_Rehab_VBH_2021/blob/main/img/timing.png?raw=true)
 
 ## Workflow
 
