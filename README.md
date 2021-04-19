@@ -76,14 +76,7 @@
   </ol>
 </details>
 
-
-
-<<<<<<< Updated upstream
-![alt text](https://github.com/MachineLearningJournalClub/Stroke_Rehab_VBH_2021/blob/main/img/timing.png?raw=true)
-=======
-<!-- ABOUT THE PROJECT -->
-## About The Project
->>>>>>> Stashed changes
+## About the project
 
 We had to analyze a motor imagery BCI data-set from a chronic stroke patient to optimize pre-processing. The dataset included three patients and the data were collected before and after intervention in order to evaluate the improvement.
 
