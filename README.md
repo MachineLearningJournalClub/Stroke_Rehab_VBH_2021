@@ -168,7 +168,7 @@ Eleonora Misino - []() :  - [linkedin]()
 
 Caterina Putti  - email :  - [linkedin]()
 
-Pietro Sillano - email :  [pietrosillano@gmail.com](Mail) - [linkedin]()
+Pietro Sillano - [E-Mail](pietrosillano@gmail.com) - [linkedin](https://www.linkedin.com/in/pietro-sillano/)
 
 Beatrice Villata - email : [beatrice.villata@edu.unito.it](beatrice.villata@edu.unito.it)
 
