@@ -24,7 +24,7 @@ The followed steps included:
 
 * [MATLAB](https://mathworks.com/?s_tid=gn_logo)
 * [EEGLAB](https://eeglab.org)
-* [Python](https://www.python.org)
+* [Python 3.7](https://www.python.org)
 
 
 
@@ -83,15 +83,15 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Lorenzo Migliori - email : []() - [linkedin]()
+Lorenzo Migliori - email : []() - [LinkedIn]()
 
-Eleonora Misino - []() :  - [linkedin]()
+Eleonora Misino - email: eleonora.misino@gmail.com - [LinkedIn](https://www.linkedin.com/in/eleonora-misino/) - [Github](https://github.com/EleMisi)
 
-Caterina Putti  - email :  - [linkedin]()
+Caterina Putti  - email :  - [LinkedIn]()
 
-Pietro Sillano - email : [pietrosillano@gmail.com](pietrosillano@gmail.com) - [linkedin](https://www.linkedin.com/in/pietro-sillano/)
+Pietro Sillano - email : pietrosillano@gmail.com - [LinkedIn](https://www.linkedin.com/in/pietro-sillano/)
 
-Beatrice Villata - email : [beatrice.villata@edu.unito.it](beatrice.villata@edu.unito.it)
+Beatrice Villata - email : beatrice.villata@edu.unito.it
 
 Project Link: [https://github.com/MachineLearningJournalClub/Stroke_Rehab_VBH_2021](https://github.com/MachineLearningJournalClub/Stroke_Rehab_VBH_2021)
 
